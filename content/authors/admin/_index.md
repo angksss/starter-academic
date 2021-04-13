@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Angela K. Stevens
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Brown University
+  url: https://vivo.brown.edu/display/asteve10
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include impulsivity and polysubstance use in young adults and adults, as well as issues related to psychological methods and measurement.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Impulsivity
+- Polysubstance use
+- Ecological momentary assessment
+- Advanced quantitative methods
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Clinical Psychology
+    institution: Texas Tech University
+    year: 2019
+  - course: Graduate Certificate in Psychological Methods and Analysis
+    institution: Texas Tech University
+    year: 2019
+  - course: MPH in Health Behavior
+    institution: University of Alabama at Birmingham
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,19 +43,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:angela_stevens@brown.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://https://twitter.com/AStevensPhD
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://https://scholar.google.com/citations?user=Go2vOS4AAAAJ&hl=en&oi=ao
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +65,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Angela Stevens is a postdoctoral research fellow at the Center for Alcohol and Addiction Studies (CAAS) in Brown University's School of Public Health. Broadly, her primary research program seeks to understand complex substance use as it naturally occurs. Angela's previous research has included identifying fine-grained etiological risk factors of young adult substance use (e.g., impulsivity, motives for use), with a recent focus on simultaneous use. The aim of this research is to inform mobile health interventions, such as ecological momentary interventions or just-in-time adapative interventions. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Angela's  secondary research area involves studying psychological measurement more broadly by using cutting-edge techniques to evaluate and improve upon existing measures, with a particular focus on measurement invariance. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
