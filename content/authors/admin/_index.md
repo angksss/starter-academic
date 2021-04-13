@@ -46,10 +46,10 @@ social:
   link: 'mailto:angela_stevens@brown.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://https://twitter.com/AStevensPhD
+  link: https://www.twitter.com/AStevensPhD
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://https://scholar.google.com/citations?user=Go2vOS4AAAAJ&hl=en&oi=ao
+  link: https://www.scholar.google.com/citations?user=Go2vOS4AAAAJ&hl=en&oi=ao
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
