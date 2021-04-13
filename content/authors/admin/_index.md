@@ -43,20 +43,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:angela_stevens@brown.edu'
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://www.twitter.com/AStevensPhD
+  link: https://twitter.com/AStevensPhD
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://www.scholar.google.com/citations?user=Go2vOS4AAAAJ&hl=en&oi=ao
+  link: https://tinyurl.com/v7t7b9z9
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ #  icon_pack: ai
+  # link: static\uploads\resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,4 +69,4 @@ Dr. Angela Stevens is a postdoctoral research fellow at the Center for Alcohol a
 
 Angela's  secondary research area involves studying psychological measurement more broadly by using cutting-edge techniques to evaluate and improve upon existing measures, with a particular focus on measurement invariance. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.

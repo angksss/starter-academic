@@ -26,7 +26,7 @@ abstract: "Background: Alcohol and marijuana/cannabis are frequently used simult
 
 #tags: []
 #categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
